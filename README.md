@@ -1,6 +1,11 @@
 # 寒蝉锦书宋 
 寒蝉锦书宋(ChillJinshuSong)基于思源宋体(SourceHanSerif)修改，添加圆角，更加温润的宋体，排版细节优化，重构字重比例，字体粗细更加均衡，便于阅读。名为锦书体，既是锦上添花，又是前程似锦之意。
+### 版本说明
+![锦书宋版本_画板 1 副本](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/b31b2cad-ff2f-47d5-820b-868dc60f66f9)
+![锦书宋版本_画板 1 副本 2](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/16c7b3dd-0826-45ff-8eaf-3b6ab42a9604)
+![锦书宋版本_画板 1 副本 3](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/a86e3d4f-c15d-4cb8-a2f2-10e58b5b6fac)
 
+## 字体样本
 ![寒蝉锦书宋2_01](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/f88cc4e7-d168-4273-8266-b68ec8387ade)
 ![寒蝉锦书宋2_02](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/965ffd32-4785-44ef-9ea7-67d95b1450db)
 ![寒蝉锦书宋2_03](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/b8d163a8-853b-4fbb-ae14-e904169820e4)
@@ -26,3 +31,6 @@
 ![寒蝉锦书宋2_02](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/5daf8ef2-2525-4056-9b4d-ed5a2b8dd464)
 ![寒蝉锦书宋2_03](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/90f68ee5-35f3-4c0f-ab10-d78d0e343df4)
 ![寒蝉锦书宋2_04](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/db6b33d7-5914-4aaf-a100-2b680009d5d1)
+
+## 下载
+请查阅releases。
