@@ -5,8 +5,8 @@
 
 ### 版本说明
 ![锦书宋版本_画板 1 副本](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/b31b2cad-ff2f-47d5-820b-868dc60f66f9)
-![锦书宋版本_画板 1 副本 2](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/16c7b3dd-0826-45ff-8eaf-3b6ab42a9604)
-![锦书宋版本_画板 1 副本 3](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/a86e3d4f-c15d-4cb8-a2f2-10e58b5b6fac)
+![锦书宋版本_画板 1 副本 2](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/66a04812-b01e-4744-be28-44bbd538aeb1)
+![锦书宋版本_画板 1 副本 3](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/a045d384-d7a3-451b-9871-452cb6eb10f0)
 
 ## 字体样本
 ![寒蝉锦书宋2_01](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/f88cc4e7-d168-4273-8266-b68ec8387ade)
