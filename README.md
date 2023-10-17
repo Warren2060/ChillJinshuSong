@@ -1,6 +1,6 @@
 # 寒蝉锦书宋 
 寒蝉锦书宋(ChillJinshuSong)基于思源宋体(SourceHanSerif)修改，添加圆角，更加温润的宋体，排版细节优化，重构字重比例，字体粗细更加均衡，便于阅读。名为锦书体，既是锦上添花，又是前程似锦之意。
-## V2.0版本更新：
+## 寒蝉锦书宋V2.0版本更新：
 ![资源 3@1x](https://github.com/Warren2060/ChillJinshuSong/assets/87366329/f2afc965-10c3-4c7f-bf25-9ea1494cd915)
 
 ### 版本说明
